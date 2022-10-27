@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="CardCopa" title="#delicinha" src="card.pndg" width="200px" />
+    <img alt="CardCopa" title="#delicinha" src="card.png" width="200px" />
     <img alt="CardCopa" title="#delicinha" src="card1.jpg" width="200px" />
 </h1>
 
